@@ -9,7 +9,7 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ["buscante"],
+  app_name: ["ws-buscante"],
   /**
    * Your New Relic license key.
    */
